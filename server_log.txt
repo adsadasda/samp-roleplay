@@ -1,0 +1,625 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:03:23] filterscripts = ""  (string)
+[23:03:23] 
+[23:03:23] Server Plugins
+[23:03:23] --------------
+[23:03:23]  Loading plugin: crashdetect.so
+[23:03:25]   Failed.
+[23:03:25]  Loading plugin: streamer.so
+[23:03:25]   Failed.
+[23:03:25]  Loading plugin: sscanf.so
+[23:03:26]   Failed.
+[23:03:26]  Loading plugin: TOTP.so
+[23:03:26]   Failed.
+[23:03:26]  Loading plugin: pawncmd.so
+[23:03:26]   Failed.
+[23:03:26]  Loading plugin: regex.so
+[23:03:26]   Failed.
+[23:03:26]  Loading plugin: mysql.so
+[23:03:26]   Failed.
+[23:03:26]  Loaded 0 plugins.
+
+[23:03:26] 
+[23:03:26] Filterscripts
+[23:03:26] ---------------
+[23:03:26]   Loaded 0 filterscripts.
+
+[23:03:27] Script[gamemodes/normative.amx]: Run time error 19: "File or function is not found"
+[23:03:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:18:47] filterscripts = ""  (string)
+[23:18:47] 
+[23:18:47] Server Plugins
+[23:18:47] --------------
+[23:18:47]  Loading plugin: crashdetect
+[23:18:47]   CrashDetect plugin 4.19.4
+[23:18:47]   Loaded.
+[23:18:47]  Loading plugin: streamer
+[23:18:47] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:18:47]   Loaded.
+[23:18:47]  Loading plugin: sscanf
+[23:18:47] 
+
+[23:18:47]  ===============================
+
+[23:18:47]       sscanf plugin loaded.     
+
+[23:18:47]          Version:  2.8.1        
+
+[23:18:47]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:18:47]  ===============================
+
+[23:18:47]   Loaded.
+[23:18:47]  Loading plugin: TOTP
+[23:18:47] TOTP plugin v1.0.1 by Games loaded.
+[23:18:47]   Loaded.
+[23:18:47]  Loading plugin: pawncmd
+[23:18:47] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:18:47]   Loaded.
+[23:18:47]  Loading plugin: regex
+[23:18:47] 
+
+[23:18:47] ______________________________________
+
+[23:18:47]  Regular Expression Plugin v0.2.1 loaded
+[23:18:47] ______________________________________
+
+[23:18:47]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:18:47] ______________________________________
+
+[23:18:47]   Loaded.
+[23:18:47]  Loading plugin: mysql
+[23:18:47]  >> plugin.mysql: R41-4 successfully loaded.
+[23:18:47]   Loaded.
+[23:18:47]  Loaded 7 plugins.
+
+[23:18:47] 
+[23:18:47] Filterscripts
+[23:18:47] ---------------
+[23:18:47]   Loaded 0 filterscripts.
+
+[23:18:47] [Nex-AC] Загрузка античита прошла успешно
+[23:18:47] [Normative-Rp] Происходит загрузка игрового мода...
+[23:18:49] [connection] 127.0.0.1:57156 requests connection cookie.
+[23:18:51] NPC поездов подключены
+[23:18:51] [connection] 127.0.0.1:52972 requests connection cookie.
+[23:18:51] [connection] 127.0.0.1:52973 requests connection cookie.
+[23:18:51] Подключиться к базе данных не удалось. Загрузка мода остановлена
+[23:18:51] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[23:18:51] Number of vehicle models: 64
+[23:18:51] --- Server Shutting Down.
+[23:18:51] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[23:18:51] 
+
+[23:18:51]  ===============================
+
+[23:18:51]      sscanf plugin unloaded.    
+
+[23:18:51]  ===============================
+
+[23:18:51] TOTP plugin v1.0.1 by Games unloaded.
+[23:18:51] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[23:18:51] 
+
+[23:18:51] ______________________________________
+
+[23:18:51]  Regular Expression Plugin v0.2.1 unloaded
+[23:18:51] ______________________________________
+
+[23:18:51] plugin.mysql: Unloading plugin...
+[23:18:51] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:19:06] filterscripts = ""  (string)
+[23:19:06] 
+[23:19:06] Server Plugins
+[23:19:06] --------------
+[23:19:06]  Loading plugin: crashdetect
+[23:19:06]   CrashDetect plugin 4.19.4
+[23:19:06]   Loaded.
+[23:19:06]  Loading plugin: streamer
+[23:19:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:19:06]   Loaded.
+[23:19:06]  Loading plugin: sscanf
+[23:19:06] 
+
+[23:19:06]  ===============================
+
+[23:19:06]       sscanf plugin loaded.     
+
+[23:19:06]          Version:  2.8.1        
+
+[23:19:06]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:19:06]  ===============================
+
+[23:19:06]   Loaded.
+[23:19:06]  Loading plugin: TOTP
+[23:19:06] TOTP plugin v1.0.1 by Games loaded.
+[23:19:06]   Loaded.
+[23:19:06]  Loading plugin: pawncmd
+[23:19:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:19:06]   Loaded.
+[23:19:06]  Loading plugin: regex
+[23:19:06] 
+
+[23:19:06] ______________________________________
+
+[23:19:06]  Regular Expression Plugin v0.2.1 loaded
+[23:19:06] ______________________________________
+
+[23:19:06]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:19:06] ______________________________________
+
+[23:19:06]   Loaded.
+[23:19:06]  Loading plugin: mysql
+[23:19:06]  >> plugin.mysql: R41-4 successfully loaded.
+[23:19:06]   Loaded.
+[23:19:06]  Loaded 7 plugins.
+
+[23:19:06] 
+[23:19:06] Filterscripts
+[23:19:06] ---------------
+[23:19:06]   Loaded 0 filterscripts.
+
+[23:19:06] [Nex-AC] Загрузка античита прошла успешно
+[23:19:06] [Normative-Rp] Происходит загрузка игрового мода...
+[23:19:06] NPC поездов подключены
+[23:19:07] [connection] 127.0.0.1:54622 requests connection cookie.
+[23:19:07] [connection] 127.0.0.1:54623 requests connection cookie.
+[23:19:07] [connection] 127.0.0.1:54624 requests connection cookie.
+[23:19:07] Подключиться к базе данных не удалось. Загрузка мода остановлена
+[23:19:07] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[23:19:07] Number of vehicle models: 64
+[23:19:07] --- Server Shutting Down.
+[23:19:07] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[23:19:07] 
+
+[23:19:07]  ===============================
+
+[23:19:07]      sscanf plugin unloaded.    
+
+[23:19:07]  ===============================
+
+[23:19:07] TOTP plugin v1.0.1 by Games unloaded.
+[23:19:07] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[23:19:07] 
+
+[23:19:07] ______________________________________
+
+[23:19:07]  Regular Expression Plugin v0.2.1 unloaded
+[23:19:07] ______________________________________
+
+[23:19:07] plugin.mysql: Unloading plugin...
+[23:19:07] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:19:08] filterscripts = ""  (string)
+[23:19:08] 
+[23:19:08] Server Plugins
+[23:19:08] --------------
+[23:19:08]  Loading plugin: crashdetect
+[23:19:08]   CrashDetect plugin 4.19.4
+[23:19:08]   Loaded.
+[23:19:08]  Loading plugin: streamer
+[23:19:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:19:08]   Loaded.
+[23:19:08]  Loading plugin: sscanf
+[23:19:08] 
+
+[23:19:08]  ===============================
+
+[23:19:08]       sscanf plugin loaded.     
+
+[23:19:08]          Version:  2.8.1        
+
+[23:19:08]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:19:08]  ===============================
+
+[23:19:08]   Loaded.
+[23:19:08]  Loading plugin: TOTP
+[23:19:08] TOTP plugin v1.0.1 by Games loaded.
+[23:19:08]   Loaded.
+[23:19:08]  Loading plugin: pawncmd
+[23:19:08] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:19:08]   Loaded.
+[23:19:08]  Loading plugin: regex
+[23:19:08] 
+
+[23:19:08] ______________________________________
+
+[23:19:08]  Regular Expression Plugin v0.2.1 loaded
+[23:19:08] ______________________________________
+
+[23:19:08]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:19:08] ______________________________________
+
+[23:19:08]   Loaded.
+[23:19:08]  Loading plugin: mysql
+[23:19:08]  >> plugin.mysql: R41-4 successfully loaded.
+[23:19:08]   Loaded.
+[23:19:08]  Loaded 7 plugins.
+
+[23:19:08] 
+[23:19:08] Filterscripts
+[23:19:08] ---------------
+[23:19:08]   Loaded 0 filterscripts.
+
+[23:19:08] [Nex-AC] Загрузка античита прошла успешно
+[23:19:08] [Normative-Rp] Происходит загрузка игрового мода...
+[23:19:08] NPC поездов подключены
+[23:19:08] [connection] 127.0.0.1:58885 requests connection cookie.
+[23:19:08] [connection] 127.0.0.1:58886 requests connection cookie.
+[23:19:08] [connection] 127.0.0.1:58887 requests connection cookie.
+[23:19:08] Подключиться к базе данных не удалось. Загрузка мода остановлена
+[23:19:08] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[23:19:08] Number of vehicle models: 64
+[23:19:08] --- Server Shutting Down.
+[23:19:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[23:19:08] 
+
+[23:19:08]  ===============================
+
+[23:19:08]      sscanf plugin unloaded.    
+
+[23:19:08]  ===============================
+
+[23:19:08] TOTP plugin v1.0.1 by Games unloaded.
+[23:19:08] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[23:19:08] 
+
+[23:19:08] ______________________________________
+
+[23:19:08]  Regular Expression Plugin v0.2.1 unloaded
+[23:19:08] ______________________________________
+
+[23:19:08] plugin.mysql: Unloading plugin...
+[23:19:08] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:19:09] filterscripts = ""  (string)
+[23:19:09] 
+[23:19:09] Server Plugins
+[23:19:09] --------------
+[23:19:09]  Loading plugin: crashdetect
+[23:19:09]   CrashDetect plugin 4.19.4
+[23:19:09]   Loaded.
+[23:19:09]  Loading plugin: streamer
+[23:19:09] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:19:09]   Loaded.
+[23:19:09]  Loading plugin: sscanf
+[23:19:09] 
+
+[23:19:09]  ===============================
+
+[23:19:09]       sscanf plugin loaded.     
+
+[23:19:09]          Version:  2.8.1        
+
+[23:19:09]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:19:09]  ===============================
+
+[23:19:09]   Loaded.
+[23:19:09]  Loading plugin: TOTP
+[23:19:09] TOTP plugin v1.0.1 by Games loaded.
+[23:19:09]   Loaded.
+[23:19:09]  Loading plugin: pawncmd
+[23:19:09] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:19:09]   Loaded.
+[23:19:09]  Loading plugin: regex
+[23:19:09] 
+
+[23:19:09] ______________________________________
+
+[23:19:09]  Regular Expression Plugin v0.2.1 loaded
+[23:19:09] ______________________________________
+
+[23:19:09]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:19:09] ______________________________________
+
+[23:19:09]   Loaded.
+[23:19:09]  Loading plugin: mysql
+[23:19:09]  >> plugin.mysql: R41-4 successfully loaded.
+[23:19:09]   Loaded.
+[23:19:09]  Loaded 7 plugins.
+
+[23:19:09] [connection] 127.0.0.1:58886 requests connection cookie.
+[23:19:09] 
+[23:19:09] Filterscripts
+[23:19:09] ---------------
+[23:19:09]   Loaded 0 filterscripts.
+
+[23:19:09] [connection] 127.0.0.1:58887 requests connection cookie.
+[23:19:09] [Nex-AC] Загрузка античита прошла успешно
+[23:19:09] [Normative-Rp] Происходит загрузка игрового мода...
+[23:19:09] NPC поездов подключены
+[23:19:09] [connection] 127.0.0.1:60847 requests connection cookie.
+[23:19:09] [connection] 127.0.0.1:60848 requests connection cookie.
+[23:19:09] [connection] 127.0.0.1:60849 requests connection cookie.
+[23:19:10] [connection] 127.0.0.1:54622 requests connection cookie.
+[23:19:10] [connection] 127.0.0.1:54623 requests connection cookie.
+[23:19:10] [connection] 127.0.0.1:54624 requests connection cookie.
+[23:19:10] [connection] 127.0.0.1:58885 requests connection cookie.
+[23:19:11] Подключиться к базе данных не удалось. Загрузка мода остановлена
+[23:19:11] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[23:19:11] Number of vehicle models: 64
+[23:19:11] --- Server Shutting Down.
+[23:19:11] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[23:19:11] 
+
+[23:19:11]  ===============================
+
+[23:19:11]      sscanf plugin unloaded.    
+
+[23:19:11]  ===============================
+
+[23:19:11] TOTP plugin v1.0.1 by Games unloaded.
+[23:19:11] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[23:19:11] 
+
+[23:19:11] ______________________________________
+
+[23:19:11]  Regular Expression Plugin v0.2.1 unloaded
+[23:19:11] ______________________________________
+
+[23:19:11] plugin.mysql: Unloading plugin...
+[23:19:11] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:19:12] filterscripts = ""  (string)
+[23:19:12] 
+[23:19:12] Server Plugins
+[23:19:12] --------------
+[23:19:12]  Loading plugin: crashdetect
+[23:19:12]   CrashDetect plugin 4.19.4
+[23:19:12]   Loaded.
+[23:19:12]  Loading plugin: streamer
+[23:19:12] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:19:12]   Loaded.
+[23:19:12]  Loading plugin: sscanf
+[23:19:12] 
+
+[23:19:12]  ===============================
+
+[23:19:12]       sscanf plugin loaded.     
+
+[23:19:12]          Version:  2.8.1        
+
+[23:19:12]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:19:12]  ===============================
+
+[23:19:12]   Loaded.
+[23:19:12]  Loading plugin: TOTP
+[23:19:12] TOTP plugin v1.0.1 by Games loaded.
+[23:19:12]   Loaded.
+[23:19:12]  Loading plugin: pawncmd
+[23:19:12] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:19:12]   Loaded.
+[23:19:12]  Loading plugin: regex
+[23:19:12] 
+
+[23:19:12] ______________________________________
+
+[23:19:12]  Regular Expression Plugin v0.2.1 loaded
+[23:19:12] ______________________________________
+
+[23:19:12]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:19:12] ______________________________________
+
+[23:19:12]   Loaded.
+[23:19:12]  Loading plugin: mysql
+[23:19:12]  >> plugin.mysql: R41-4 successfully loaded.
+[23:19:12]   Loaded.
+[23:19:12]  Loaded 7 plugins.
+
+[23:19:12] 
+[23:19:12] Filterscripts
+[23:19:12] ---------------
+[23:19:12]   Loaded 0 filterscripts.
+
+[23:19:12] [Nex-AC] Загрузка античита прошла успешно
+[23:19:12] [Normative-Rp] Происходит загрузка игрового мода...
+[23:19:12] NPC поездов подключены
+[23:19:12] [connection] 127.0.0.1:58150 requests connection cookie.
+[23:19:12] [connection] 127.0.0.1:58153 requests connection cookie.
+[23:19:12] [connection] 127.0.0.1:58151 requests connection cookie.
+[23:19:12] [connection] 127.0.0.1:58885 requests connection cookie.
+[23:19:13] Подключиться к базе данных не удалось. Загрузка мода остановлена
+[23:19:13] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[23:19:13] Number of vehicle models: 64
+[23:19:13] --- Server Shutting Down.
+[23:19:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[23:19:13] 
+
+[23:19:13]  ===============================
+
+[23:19:13]      sscanf plugin unloaded.    
+
+[23:19:13]  ===============================
+
+[23:19:13] TOTP plugin v1.0.1 by Games unloaded.
+[23:19:13] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[23:19:13] 
+
+[23:19:13] ______________________________________
+
+[23:19:13]  Regular Expression Plugin v0.2.1 unloaded
+[23:19:13] ______________________________________
+
+[23:19:13] plugin.mysql: Unloading plugin...
+[23:19:13] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:19:16] filterscripts = ""  (string)
+[23:19:16] 
+[23:19:16] Server Plugins
+[23:19:16] --------------
+[23:19:16]  Loading plugin: crashdetect
+[23:19:16]   CrashDetect plugin 4.19.4
+[23:19:16]   Loaded.
+[23:19:16]  Loading plugin: streamer
+[23:19:16] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[23:19:16]   Loaded.
+[23:19:16]  Loading plugin: sscanf
+[23:19:16] 
+
+[23:19:16]  ===============================
+
+[23:19:16]       sscanf plugin loaded.     
+
+[23:19:16]          Version:  2.8.1        
+
+[23:19:16]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:19:16]  ===============================
+
+[23:19:16]   Loaded.
+[23:19:16]  Loading plugin: TOTP
+[23:19:16] TOTP plugin v1.0.1 by Games loaded.
+[23:19:16]   Loaded.
+[23:19:16]  Loading plugin: pawncmd
+[23:19:16] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[23:19:16]   Loaded.
+[23:19:16]  Loading plugin: regex
+[23:19:16] 
+
+[23:19:16] ______________________________________
+
+[23:19:16]  Regular Expression Plugin v0.2.1 loaded
+[23:19:16] ______________________________________
+
+[23:19:16]  By: Fro (c) Copyright <TBG> 2009-2011
+[23:19:16] ______________________________________
+
+[23:19:16]   Loaded.
+[23:19:16]  Loading plugin: mysql
+[23:19:16]  >> plugin.mysql: R41-4 successfully loaded.
+[23:19:16]   Loaded.
+[23:19:16]  Loaded 7 plugins.
+
+[23:19:16] 
+[23:19:16] Filterscripts
+[23:19:16] ---------------
+[23:19:16]   Loaded 0 filterscripts.
+
+[23:19:17] [Nex-AC] Загрузка античита прошла успешно
+[23:19:17] [Normative-Rp] Происходит загрузка игрового мода...
+[23:19:17] NPC поездов подключены
+[23:19:17] [connection] 127.0.0.1:54039 requests connection cookie.
+[23:19:17] [connection] 127.0.0.1:54040 requests connection cookie.
+[23:19:17] [connection] 127.0.0.1:54041 requests connection cookie.
+[23:19:18] Подключиться к базе данных не удалось. Загрузка мода остановлена
+[23:19:18] Gamemode Author & Developer: Alexandr Huramov (Ivan_Wade)
+[23:19:18] Number of vehicle models: 64
+[23:19:18] --- Server Shutting Down.
+[23:19:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[23:19:18] 
+
+[23:19:18]  ===============================
+
+[23:19:18]      sscanf plugin unloaded.    
+
+[23:19:18]  ===============================
+
+[23:19:18] TOTP plugin v1.0.1 by Games unloaded.
+[23:19:18] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+[23:19:18] 
+
+[23:19:18] ______________________________________
+
+[23:19:18]  Regular Expression Plugin v0.2.1 unloaded
+[23:19:18] ______________________________________
+
+[23:19:18] plugin.mysql: Unloading plugin...
+[23:19:18] plugin.mysql: Plugin unloaded.
